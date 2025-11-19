@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/crud.py
+app/database.py
+app/factory.py
+app/models.py
+app/schemas.py
+hw11_calculation.egg-info/PKG-INFO
+hw11_calculation.egg-info/SOURCES.txt
+hw11_calculation.egg-info/dependency_links.txt
+hw11_calculation.egg-info/top_level.txt

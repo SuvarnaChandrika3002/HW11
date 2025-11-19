@@ -1,0 +1,5 @@
+[project]
+name = "hw11-calculation"
+version = "0.0.0"
+authors = [{name="You"}]
+dependencies = []
